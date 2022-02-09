@@ -23,11 +23,3 @@ This is the official implementation of the paper *Training Techniques for Data B
 - `techniques/eda.py` : [EDA](https://arxiv.org/pdf/1901.11196.pdf) 논문 구현 코드입니다. (성능 비교를 위해 만들어 두었습니다)
 - `techniques/tfidf.py` : TF-IDF 알고리즘을 구현한 코드입니다.
 
-
-
-## 참고
-
-본 레포지토리는 아카이브 목적으로 제작되었습니다. 코드가 실제로 잘 동작하지 않을 수 있습니다.
-
-체크포인트는 파일은 크기 문제로 인해 제공하지 않습니다.
-
